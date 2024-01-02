@@ -145,7 +145,7 @@ Screen1 As screen:
         Text: |-
             ="Thứ sáu lúc 16:35MớiAdd bookmark#1- Mình mới học viết nhưng viết hoài không được nhờ A/E giúp với:=> Cột B5 mình muốn dữ liệu xuất ra với điều kiện sau:Khi nhập số 5007 ở cột B3 thì sẽ tự dò tìm ở sheet DATA cột $C:$C xem dữ liệu ở B3 gồm ngày&tháng&năm hiện tại &B3&""001"" xem có tồn tại hay không?+ nếu không có tồn tại thì sẽ xuất dữ liệu ô B5 là ngày&tháng&năm hiện tại &B3&""001""+ còn nếu có tồn tại thì phải xem có thêm ngày&tháng&năm hiện tại &B3&""002"" và.......ngày&tháng&năm hiện tại &B3&""n"" ( n ở đây là 001 đến 100 ) không nếu có thì xuất dữ liệu ô B5 là ngày&tháng&năm hiện tại &B3&""n + 001"" => là tăng thêm 1 số ( ví dụ n= 002 thì xuất dữ liệu ra là ngày&tháng&năm hiện tại &B3&""003"")Mình suy nghĩ hoài không được nhờ a/e có thời gian giúp ạ"
         Width: =481
-        X: =884
-        Y: =114
+        X: =832
+        Y: =128
         ZIndex: =6
 
