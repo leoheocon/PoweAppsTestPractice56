@@ -13,11 +13,12 @@
     "Screen1": 4,
     "Separator1": 11,
     "Subtitle1": 9,
+    "Subtitle1_1": 14,
     "Title1": 8
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/02/2024 03:16:24",
+  "HeaderLastSavedDateTimeUTC": "01/02/2024 03:17:12",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "4d797315-9f15-456d-84f3-4f6ad84cc7b0": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/ebd8d3178f8e44ce9796054366993cd8\""
@@ -55,6 +56,7 @@
     "Screen1": {},
     "Separator1": {},
     "Subtitle1": {},
+    "Subtitle1_1": {},
     "Title1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
@@ -71,6 +73,7 @@
     "Screen1": 0,
     "Separator1": 7,
     "Subtitle1": 6,
+    "Subtitle1_1": 6,
     "Title1": 5
   },
   "ResourcesJsonIndices": {
@@ -80,7 +83,9 @@
   "TemplateVersions": {},
   "VolatileProperties": {
     "AnalysisLoadTime": 0.0209257,
-    "ControlCount": {}
+    "ControlCount": {
+      "label": 1
+    }
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
