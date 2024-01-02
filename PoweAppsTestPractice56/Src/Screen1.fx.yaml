@@ -149,3 +149,11 @@ Screen1 As screen:
         Y: =128
         ZIndex: =6
 
+    Label5 As label:
+        Height: =53
+        Text: ="Token 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"
+        Width: =536
+        X: =788
+        Y: =688
+        ZIndex: =7
+
