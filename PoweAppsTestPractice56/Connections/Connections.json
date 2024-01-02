@@ -1,0 +1,24 @@
+{
+  "4d797315-9f15-456d-84f3-4f6ad84cc7b0": {
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1670/1.0.1670.3526/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://huyhoangit.sharepoint.com/sites/powerapplearning": {
+        "dataSources": {
+          "Test sendmail": {
+            "tableName": "8355e351-2a11-4b80-8904-d515a5aa52e0"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Test sendmail"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "4d797315-9f15-456d-84f3-4f6ad84cc7b0"
+  }
+}
