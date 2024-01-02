@@ -133,6 +133,36 @@
             {
               "logicalLocations": [
                 {
+                  "fullyQualifiedName": "App.VarY"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "App.VarY",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "VarY",
+                "module": "App",
+                "type": "App"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "app-UnusedVariables",
+          "ruleIndex": 3
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
                   "fullyQualifiedName": "Screen1.Button1.OnSelect"
                 }
               ],
