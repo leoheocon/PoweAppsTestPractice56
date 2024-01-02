@@ -105,7 +105,8 @@ Screen1 As screen:
         OnSelect: |-
             =ClearCollect(data, 'Test sendmail');
             Set(VarY, 40);
-            Set(VarX, 25)
+            Set(VarX, 25);
+            Set(VarZ,60)
         Text: ="Create data"
         Width: =183
         X: =868
