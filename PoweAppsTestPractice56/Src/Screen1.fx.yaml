@@ -128,3 +128,9 @@ Screen1 As screen:
         Text: ="Source"
         ZIndex: =4
 
+    Label2 As label:
+        Text: =RandBetween(1,100)
+        X: =901
+        Y: =437
+        ZIndex: =5
+
