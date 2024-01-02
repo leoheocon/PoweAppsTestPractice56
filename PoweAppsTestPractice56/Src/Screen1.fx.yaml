@@ -2,12 +2,13 @@ Screen1 As screen:
 
     "Gallery1 As gallery.'BrowseLayout_Vertical_TwoTextOneImageVariant_ver5.0'":
         DelayItemLoading: =true
-        Height: =539
+        Height: =452
         Items: =data
         Layout: =Layout.Vertical
         LoadingSpinner: =LoadingSpinner.Data
         TemplatePadding: =0
         TemplateSize: =104
+        Width: =623
         X: =40
         Y: =76
         ZIndex: =1
@@ -110,16 +111,15 @@ Screen1 As screen:
             Set(VarU, 100)
         Text: ="Create data"
         Width: =183
-        X: =868
-        Y: =180
+        X: =715
         ZIndex: =2
 
     Label1 As label:
         Height: =36
         Text: ="Urara"
         Width: =166
-        X: =868
-        Y: =40
+        X: =1200
+        Y: =437
         ZIndex: =3
 
     Button2 As button:
@@ -136,7 +136,16 @@ Screen1 As screen:
 
     Label2 As label:
         Text: =RandBetween(1,100)
-        X: =868
-        Y: =516
+        X: =1100
+        Y: =503
         ZIndex: =5
+
+    Label4 As label:
+        Height: =248
+        Text: |-
+            ="Thứ sáu lúc 16:35MớiAdd bookmark#1- Mình mới học viết nhưng viết hoài không được nhờ A/E giúp với:=> Cột B5 mình muốn dữ liệu xuất ra với điều kiện sau:Khi nhập số 5007 ở cột B3 thì sẽ tự dò tìm ở sheet DATA cột $C:$C xem dữ liệu ở B3 gồm ngày&tháng&năm hiện tại &B3&""001"" xem có tồn tại hay không?+ nếu không có tồn tại thì sẽ xuất dữ liệu ô B5 là ngày&tháng&năm hiện tại &B3&""001""+ còn nếu có tồn tại thì phải xem có thêm ngày&tháng&năm hiện tại &B3&""002"" và.......ngày&tháng&năm hiện tại &B3&""n"" ( n ở đây là 001 đến 100 ) không nếu có thì xuất dữ liệu ô B5 là ngày&tháng&năm hiện tại &B3&""n + 001"" => là tăng thêm 1 số ( ví dụ n= 002 thì xuất dữ liệu ra là ngày&tháng&năm hiện tại &B3&""003"")Mình suy nghĩ hoài không được nhờ a/e có thời gian giúp ạ"
+        Width: =630
+        X: =700
+        Y: =126
+        ZIndex: =6
 
