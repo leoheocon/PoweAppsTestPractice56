@@ -128,15 +128,15 @@ Screen1 As screen:
         Text: ="Source"
         ZIndex: =4
 
-    Label2 As label:
-        Text: =RandBetween(1,100)
-        X: =901
-        Y: =437
-        ZIndex: =5
-
     Label3 As label:
         Text: ="I'm Tired"
         X: =950
         Y: =437
+        ZIndex: =5
+
+    Label2 As label:
+        Text: =RandBetween(1,100)
+        X: =868
+        Y: =516
         ZIndex: =5
 
