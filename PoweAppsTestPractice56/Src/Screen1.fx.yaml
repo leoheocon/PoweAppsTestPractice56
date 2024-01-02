@@ -110,3 +110,11 @@ Screen1 As screen:
         Y: =180
         ZIndex: =2
 
+    Label1 As label:
+        Height: =36
+        Text: ="Urara"
+        Width: =166
+        X: =868
+        Y: =40
+        ZIndex: =3
+
