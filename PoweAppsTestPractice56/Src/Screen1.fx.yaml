@@ -134,3 +134,9 @@ Screen1 As screen:
         Y: =437
         ZIndex: =5
 
+    Label3 As label:
+        Text: ="I'm Tired"
+        X: =950
+        Y: =437
+        ZIndex: =5
+
